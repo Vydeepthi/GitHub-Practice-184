@@ -37,7 +37,7 @@
 | Insley, Drew | DrewInsley| https://drewinsley.github.io/Drew-Insley-184-GitHub/ |
 | Ashley Reed | ashleynreed5508 | https://github.com/ashleynreed5508/Stat-184-Assignment/edit/master/README.md |
 | Mackenzie Detwiler      | KenzieDetwiler       | <https://kenziedetwiler.github.io/GitHub-Assignment-1/>   |    
-
+| Vydeepthi Dhulipalla | Vydeepthi  |  https://vydeepthi.github.io/first/  |
 <br>
 
 # Integration of RStudio with Git
